@@ -10,7 +10,7 @@ Date: May 6th, 2019
 ### Assignment 1 - Counter
 
 - [Code Sandbox Link](https://codesandbox.io/s/mqwzmm62y8)
-- [Pull request]()
+- [Pull request](https://github.com/shiratap/lab36a/pull/1)
 
 [x] Create a Counter Provider component, which exposes the following state:
 
@@ -29,7 +29,7 @@ Date: May 6th, 2019
 
 - [Code Sandbox Link](https://codesandbox.io/s/q75jyx4jjq)
 
-- [Pull request]()
+- [Pull request](https://github.com/shiratap/Lab36/pull/1)
 
 You have been provided, in the `starter-code` folder, a working To Do manager application, written using standard React Component State
 
